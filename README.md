@@ -1,2 +1,2 @@
 # jfel-initial-repo
-# *repository one*
+# *this is project one*
