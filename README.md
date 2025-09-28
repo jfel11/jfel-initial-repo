@@ -1,2 +1,2 @@
-# jfel-initial-repo
-# *this is project one*
+# jfel-repo
+# *this is project one. documentation to come. *
